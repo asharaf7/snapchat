@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: yellow;
+    height: 100vh;
+}
+
+.name-container {
+    background-color: #696969;
+    margin: 40px;
+    height: 80px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.image-top {
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-left: 10px;
+    height: 68px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.person-name {
+    font-family: "Roboto";
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.ring-text {
+    font-family: "Roboto";
+    font-size: 17px;
+    color: white;
+    font-weight: 200;
+}
+
+.middle-image {
+    text-align: center;
+    height: 200px;
+    border-radius: 100px;
+    margin: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bottom-image {
+    height: 20px;
+    margin: 10px;
+}
+
+.margin-top {
+    margin-top: 90px;
+}
+
+.bottom-icons {
+    color: white;
+    margin: 20px;
+    font-size: 30px;
+}
+
+.logos {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
